@@ -1,1 +1,1 @@
-# PRG1-Template
+# PRG1 - Exercices
