@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 3.16)
+project(PRG1-Exercices)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_subdirectory(1_Introduction)
+add_subdirectory(2_Elements_de_base)
+add_subdirectory(3_Structures_de_controle)
+add_subdirectory(4_Fonctions)
+add_subdirectory(5_Tableaux)
+add_subdirectory(6_Chaines_de_caracteres)
+add_subdirectory(7_Classes)
+add_subdirectory(8_Genericite)
+add_subdirectory(9_Exceptions)
+add_subdirectory(Misc)
