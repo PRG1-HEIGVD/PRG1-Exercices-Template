@@ -8,3 +8,6 @@ Ce repository git stocke mes travaux personnels pour les exercices du cours de P
 pour que nous puissions suivre vos travaux.
 
 
+---
+
+Note : ce fichier README.md est écrit au format Markdown. Vous pouvez apprendre à faire de même via https://www.markdownguide.org ou https://guides.github.com/features/mastering-markdown/ . Ce dernier lien inclut quelques [extensions spécifiques à GitHub](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown). 
