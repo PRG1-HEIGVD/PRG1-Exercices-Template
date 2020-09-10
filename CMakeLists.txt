@@ -2,6 +2,7 @@ cmake_minimum_required(VERSION 3.16)
 project(PRG1-Exercices)
 
 set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_FLAGS "-Wall -Wextra -Wconversion -Wsign-conversion -pedantic")
 
 add_subdirectory(1_Introduction)
 add_subdirectory(2_Elements_de_base)
